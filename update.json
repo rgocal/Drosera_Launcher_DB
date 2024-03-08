@@ -1,0 +1,11 @@
+{
+  "latestVersion": "1",
+  "latestVersionCode": "1",
+  "url": "null",
+  "releaseNotes": [
+    "- Alpha RC",
+    "- Redirect all feedback to GSD Discord",
+    "- Report successful devices",
+    "- Report struggling devices"
+  ]
+}
