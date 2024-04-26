@@ -3,9 +3,12 @@
   "latestVersionCode": "2",
   "url": "https://docs.google.com/uc?export=download&id=1bIbAf3Of0jijJ6I5t09wSn1lnMl00lc1",
   "releaseNotes": [
-    "- Alpha RC",
-    "- Redirect all feedback to GSD Discord",
-    "- Report successful devices",
-    "- Report struggling devices"
+    "- Developer Preview",
+    "- Redirect all feedback to Discord and/of Telegram",
+    "- Report back all supported devices",
+    "- Unsupported devices will be logged",
+    "- Added supported for Icon Packs",
+    "- Added padding options",
+    "- Adaptive Cardviews in the app drawer now have user preferences"
   ]
 }
