@@ -1,14 +1,14 @@
 {
-  "latestVersion": "2",
-  "latestVersionCode": "2",
+  "latestVersion": "5",
+  "latestVersionCode": "5",
   "url": "https://docs.google.com/uc?export=download&id=1bIbAf3Of0jijJ6I5t09wSn1lnMl00lc1",
   "releaseNotes": [
     "- Developer Preview",
-    "- Redirect all feedback to Discord and/of Telegram",
-    "- Report back all supported devices",
-    "- Unsupported devices will be logged",
-    "- Added supported for Icon Packs",
-    "- Added padding options",
-    "- Adaptive Cardviews in the app drawer now have user preferences"
+    "- All Discussion @Telegram",
+    "- Revamped user interface",
+    "- Some Keybindings may not be correct yet so proceed with caution",
+    "- Homescreen content now scrollable",
+    "- Revamped notifications glance panel",
+    "- Settings sheet removed"
   ]
 }
