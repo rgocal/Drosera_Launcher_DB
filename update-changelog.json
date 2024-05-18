@@ -5,10 +5,12 @@
   "releaseNotes": [
     "- Developer Preview",
     "- All Discussion @Telegram",
-    "- Revamped user interface",
-    "- Some Keybindings may not be correct yet so proceed with caution",
-    "- Homescreen content now scrollable",
-    "- Revamped notifications glance panel",
-    "- Settings sheet removed"
+    "- Homescreen Interface Improvements",
+    "- Keybinding on press event fixes (sometimes, an event would clock in 2 clicks at once)",
+    "- Hardware views must be focused first before opening their menus going forward (This fixes multi-event clicks)",
+    "- Controller and PC configurations will now show different icon legends on the homescreen",
+    "- Revamped Settings screen on key bindings for new interface",
+    "- Onscreen Content control fixes",
+    "- Prepared future for on key bindings"
   ]
 }
