@@ -1,6 +1,6 @@
 {
-  "latestVersion": "5",
-  "latestVersionCode": "5",
+  "latestVersion": "6",
+  "latestVersionCode": "6",
   "url": "https://docs.google.com/uc?export=download&id=1bIbAf3Of0jijJ6I5t09wSn1lnMl00lc1",
   "releaseNotes": [
     "- Developer Preview",
@@ -13,7 +13,8 @@
     "- Onscreen Content control fixes",
     "- Notifications homepage now loads and reacts faster",
     "- Revamped Notifications homescreen page key bindings and options",
-
+    "- Notification predicted actions added to Notification homescreen (requires some dragging assistance at the bottom for now)",
+    "- Fixed proper themeing of Interactions Bottomsheet",
     "- Prepared future for on key bindings"
   ]
 }
