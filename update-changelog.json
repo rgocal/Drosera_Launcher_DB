@@ -11,6 +11,9 @@
     "- Controller and PC configurations will now show different icon legends on the homescreen",
     "- Revamped Settings screen on key bindings for new interface",
     "- Onscreen Content control fixes",
+    "- Notifications homepage now loads and reacts faster",
+    "- Revamped Notifications homescreen page key bindings and options",
+
     "- Prepared future for on key bindings"
   ]
 }
