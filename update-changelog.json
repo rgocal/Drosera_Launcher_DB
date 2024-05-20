@@ -1,6 +1,6 @@
 {
-  "latestVersion": "6",
-  "latestVersionCode": "6",
+  "latestVersion": "7",
+  "latestVersionCode": "7",
   "url": "https://docs.google.com/uc?export=download&id=1bIbAf3Of0jijJ6I5t09wSn1lnMl00lc1",
   "releaseNotes": [
     "- Developer Preview",
@@ -15,6 +15,10 @@
     "- Revamped Notifications homescreen page key bindings and options",
     "- Notification predicted actions added to Notification homescreen (requires some dragging assistance at the bottom for now)",
     "- Fixed proper themeing of Interactions Bottomsheet",
+    "- Implemented better launcher button info listener",
+    "- Implemented fixes to the launcher settings (Pressing the home button will refresh the launcher state",
+    "- When the user has opened notifications on their homescreen, the CalendarView will show a home icon. Pressing this will return the user to the homescreen vs pressing the home button",
     "- Prepared future for on key bindings"
+  
   ]
 }
